@@ -16,3 +16,6 @@ Uses old OrganizationServiceProxy connection and Microsoft.CrmSdk.CoreAssemblies
 * **KeyVaultTest**: Have to use Microsoft.Azure.KeyVault:2.3.2 otherwise cannot load Newtonsoft.json (breaks keyvault and graph tests)
 * **GraphTest**: ok
 * **CRMTest**: ok
+
+
+test
